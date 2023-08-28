@@ -94,7 +94,7 @@ const words = {
     "egypt",
     "bahrain",
     "qatar",
-    "amritas",
+    "emirates",
     "saudi arabia",
   ],
 };
